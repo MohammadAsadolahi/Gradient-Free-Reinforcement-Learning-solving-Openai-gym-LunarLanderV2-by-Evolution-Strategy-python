@@ -1,8 +1,10 @@
 # Gradient-Free-Reinforcement-Learning-solving-Openai-gym-LunarLanderV2-by-Evolution-Strategy
 Gradient Free Reinforcement Learning solving Openai gym LunarLanderV2 by Evolution Strategy (Genetic Algorithm)  
 Pytorch implementation of paper:  Evolution Strategies as a Scalable Alternative to Reinforcement Learning 
-https://arxiv.org/abs/1703.03864 
-libraries needed: Pytorch , Numpy , gym 
+https://arxiv.org/abs/1703.03864   
+required libraries: Pytorch , Numpy , Gym   
+* to do: add extra mechanism for radical explorations (not implemented in the original paper)
+
 ### results:  
   generation: 0 Average Reward: -538.583251953125 Best reward:-156.47698974609375  
   generation: 1 Average Reward: -316.5377197265625 Best reward:-63.06631851196289  
